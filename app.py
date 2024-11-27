@@ -5,6 +5,7 @@ from transformers import pipeline, GPTNeoForCausalLM, GPT2Tokenizer
 import requests
 from PIL import Image
 import io
+import  os
 
 # Model and device configuration for Whisper
 MODEL_NAME = "openai/whisper-large-v3"
