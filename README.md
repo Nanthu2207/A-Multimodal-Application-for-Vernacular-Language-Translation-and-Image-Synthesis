@@ -40,12 +40,25 @@ generation requests.
 
 7. Deployment:
    
-     *  Deploy the application on Hugging Face Spaces or AWS.
+     *  Deployed on Hugging Face Spaces for easy access.
+
    
-9. Security and Compliance:
-    
-     *  Ensure data protection and compliance with relevant standards.
-  
+  TransArt - Hugging Face Spaces App
+
+Explore the **TransArt** app, deployed on Hugging Face Spaces. This app allows you to [describe the app functionality briefly, e.g., "transform artworks with AI"].
+
+[![Hugging Face Spaces](https://img.shields.io/badge/🤗-Hugging%20Face-orange)](https://huggingface.co/spaces/Nanthu22/TransArt)
+
+Click the badge above or [here](https://huggingface.co/spaces/Nanthu22/TransArt) to try it out!
+
+
+<iframe
+    src="https://huggingface.co/spaces/Nanthu22/TransArt"
+    width="100%"
+    height="500"
+    frameborder="0">
+</iframe>
+   
 # Technology Used
    1. Deep Learning
       
@@ -65,17 +78,3 @@ generation requests.
   * from PIL import Image
   * import io
 
-## TransArt - Hugging Face Spaces App
-
-Explore the **TransArt** app, deployed on Hugging Face Spaces. This app allows you to [describe the app functionality briefly, e.g., "transform artworks with AI"].
-
-[![Hugging Face Spaces](https://img.shields.io/badge/🤗-Hugging%20Face-orange)](https://huggingface.co/spaces/Nanthu22/TransArt)
-
-Click the badge above or [here](https://huggingface.co/spaces/Nanthu22/TransArt) to try it out!
-
-<iframe
-    src="https://huggingface.co/spaces/Nanthu22/TransArt"
-    width="100%"
-    height="500"
-    frameborder="0">
-</iframe>
