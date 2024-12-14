@@ -25,29 +25,29 @@ textual descriptions.
 
 1.**Model Selection:**
 
-     *  Select a robust Tamil to English translation model from Hugging Face, such as
+     -  Select a robust Tamil to English translation model from Hugging Face, such as
 for example openai/whisper-large-v3.
 
-     *  Choose a reliable text-to-image model, example like ,
+     - Choose a reliable text-to-image model, example like ,
  Flux-RealismLora to generate images from the translated text.
 
-     *  Integrate a text generation model like  gpt-neo or google
+     - Integrate a text generation model like  gpt-neo or google
 gemini api for producing creative English text based on the translated input.
 
 2. **Application Development:**
     
-     *  Build the app using gradio or stremlit to handle translation and image
+     -  Build the app using gradio or stremlit to handle translation and image
 generation requests.
 
 3. **Integration and Testing:**
  
-     *  Integrate the Hugging Face models using their APIs.
+     -  Integrate the Hugging Face models using their APIs.
 
-     *  Conduct thorough testing to ensure accurate translations and image relevance.
+     -  Conduct thorough testing to ensure accurate translations and image relevance.
 
 4. **Deployment:**
  
-     *  Deployed on [Hugging Face Spaces](https://huggingface.co/spaces/Nanthu22/TransArt) for easy access.
+     -  Deployed on [Hugging Face Spaces](https://huggingface.co/spaces/Nanthu22/TransArt) for easy access.
 
 ---
 
@@ -57,7 +57,7 @@ Explore the **TransArt** app, deployed on Hugging Face Spaces. This app allows y
 
 [![Hugging Face Spaces](https://img.shields.io/badge/🤗-Hugging%20Face-orange)](https://huggingface.co/spaces/Nanthu22/TransArt)
 
-Click the badge above or [here](https://huggingface.co/spaces/Nanthu22/TransArt) to try it out!
+Click  [here](https://huggingface.co/spaces/Nanthu22/TransArt) to try it out!
 
 
 ---
@@ -88,6 +88,9 @@ import io
 - Expand support for additional vernacular languages.
 - Improve the quality and diversity of generated images.
 - Add voice input/output for enhanced accessibility.
+
+
+
 
 
 
