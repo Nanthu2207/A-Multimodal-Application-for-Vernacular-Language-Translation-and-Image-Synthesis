@@ -1,11 +1,11 @@
-# TransArt: A Multimodal Application for Vernacular Language Translation and Image Synthesis
+## TransArt: A Multimodal Application for Vernacular Language Translation and Image Synthesis
 To develop a web-based application that first translates text from Tamil to English and then uses the translated text to generate relevant images. This application aims to demonstrate the
 seamless integration of language translation and creative AI to produce visual content from
 textual descriptions.
 
 ---
 
-# Skills take away From This Project
+## Skills take away From This Project
  
    * Deep Learning
    * Transformers
@@ -15,15 +15,15 @@ textual descriptions.
 
 ---
 
-# Domain
+## Domain
 
      AIOPS
 
 ---
     
-# Approach
+## Approach
 
-1. Model Selection:
+1.**Model Selection:**
 
      *  Select a robust Tamil to English translation model from Hugging Face, such as
 for example openai/whisper-large-v3.
@@ -34,18 +34,18 @@ for example openai/whisper-large-v3.
      *  Integrate a text generation model like  gpt-neo or google
 gemini api for producing creative English text based on the translated input.
 
-2. Application Development:
+2. **Application Development:**
     
      *  Build the app using gradio or stremlit to handle translation and image
 generation requests.
 
-3. Integration and Testing:
+3. **Integration and Testing:**
  
      *  Integrate the Hugging Face models using their APIs.
 
      *  Conduct thorough testing to ensure accurate translations and image relevance.
 
-4. Deployment:
+4. **Deployment:**
  
      *  Deployed on [Hugging Face Spaces](https://huggingface.co/spaces/Nanthu22/TransArt) for easy access.
 
@@ -59,14 +59,6 @@ Explore the **TransArt** app, deployed on Hugging Face Spaces. This app allows y
 
 Click the badge above or [here](https://huggingface.co/spaces/Nanthu22/TransArt) to try it out!
 
-```html
-<iframe
-    src="https://huggingface.co/spaces/Nanthu22/TransArt"
-    width="100%"
-    height="500"
-    frameborder="0">
-</iframe>
-```
 
 ---
 
@@ -96,5 +88,6 @@ import io
 - Expand support for additional vernacular languages.
 - Improve the quality and diversity of generated images.
 - Add voice input/output for enhanced accessibility.
+
 
 
