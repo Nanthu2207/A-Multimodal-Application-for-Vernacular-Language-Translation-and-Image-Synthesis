@@ -65,5 +65,17 @@ generation requests.
   * from PIL import Image
   * import io
 
+## TransArt - Hugging Face Spaces App
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Explore the **TransArt** app, deployed on Hugging Face Spaces. This app allows you to [describe the app functionality briefly, e.g., "transform artworks with AI"].
+
+[![Hugging Face Spaces](https://img.shields.io/badge/🤗-Hugging%20Face-orange)](https://huggingface.co/spaces/Nanthu22/TransArt)
+
+Click the badge above or [here](https://huggingface.co/spaces/Nanthu22/TransArt) to try it out!
+
+<iframe
+    src="https://huggingface.co/spaces/Nanthu22/TransArt"
+    width="100%"
+    height="500"
+    frameborder="0">
+</iframe>
