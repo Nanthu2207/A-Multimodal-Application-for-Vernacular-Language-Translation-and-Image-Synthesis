@@ -21,23 +21,19 @@ textual descriptions.
 
 ---
     
-## Approach
+### Approach
 
 1.**Model Selection:**
 
-     -  Select a robust Tamil to English translation model from Hugging Face, such as
-for example openai/whisper-large-v3.
+     -  Select a robust Tamil to English translation model from Hugging Face, such asfor example openai/whisper-large-v3.
 
-     - Choose a reliable text-to-image model, example like ,
- Flux-RealismLora to generate images from the translated text.
+     -  Choose a reliable text-to-image model, example like , Flux-RealismLora to generate images from the translated text.
 
-     - Integrate a text generation model like  gpt-neo or google
-gemini api for producing creative English text based on the translated input.
+     -  Integrate a text generation model like  gpt-neo or googlegemini api for producing creative English text based on the translated input.
 
 2. **Application Development:**
     
-     -  Build the app using gradio or stremlit to handle translation and image
-generation requests.
+     -  Build the app using gradio or stremlit to handle translation and image generation requests.
 
 3. **Integration and Testing:**
  
