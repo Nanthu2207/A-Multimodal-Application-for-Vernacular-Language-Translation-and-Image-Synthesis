@@ -3,6 +3,8 @@ To develop a web-based application that first translates text from Tamil to Engl
 seamless integration of language translation and creative AI to produce visual content from
 textual descriptions.
 
+---
+
 # Skills take away From This Project
  
    * Deep Learning
@@ -10,9 +12,14 @@ textual descriptions.
    * Hugging face models
    * LLM
    * Gradio/AWS
+
+---
+
 # Domain
 
      AIOPS
+
+---
     
 # Approach
 
@@ -42,7 +49,7 @@ generation requests.
  
      *  Deployed on [Hugging Face Spaces](https://huggingface.co/spaces/Nanthu22/TransArt) for easy access.
 
-
+---
 
 ## Try the App
 
