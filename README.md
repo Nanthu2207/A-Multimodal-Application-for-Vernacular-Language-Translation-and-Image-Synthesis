@@ -1,4 +1,3 @@
-![IMG_20241216_225421 (1)](https://github.com/user-attachments/assets/902d62a5-9055-4a31-85e2-e70057c375ce)
 ## TransArt: A Multimodal Application for Vernacular Language Translation and Image Synthesis
 To develop a web-based application that first translates text from Tamil to English and then uses the translated text to generate relevant images. This application aims to demonstrate the
 seamless integration of language translation and creative AI to produce visual content from
