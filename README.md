@@ -83,10 +83,9 @@ import io
 
 ---
 
-### Future Enhancements
-- Expand support for additional vernacular languages.
-- Improve the quality and diversity of generated images.
-- Add voice input/output for enhanced accessibility.
+
+## Output
+ ![IMG_20241216_225421](https://github.com/user-attachments/assets/d3af2480-0a54-41db-a017-54cecc8a9caf)
 
 
 
